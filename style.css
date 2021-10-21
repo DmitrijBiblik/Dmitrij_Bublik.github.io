@@ -1,0 +1,26 @@
+  p {
+        color: dodgerblue;
+        font-size: 32px;
+        font-family: "swap", cursive;
+}
+h1 {
+  color: dodgerblue;
+  font-size: 32px;
+}
+div {
+     width: 60%;
+     margin: auto;
+     background-color: white;
+}  
+a{
+   font-size: 16px;
+   text-decoration: none;
+   color: red;
+ }
+
+img {
+     max-width: 100%
+     height: auto;
+     display: block;
+     width: 100%
+
